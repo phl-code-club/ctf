@@ -1,0 +1,6 @@
+[submodule "CTFd"]
+	path = CTFd
+	url = git@github.com:phl-code-club/CTFd.git
+[submodule "ctf-orchestrator"]
+	path = ctf-orchestrator
+	url = git@github.com:phl-code-club/ctf-orchestrator.git
