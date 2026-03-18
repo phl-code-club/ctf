@@ -1,4 +1,4 @@
-#PHL Code Club - CTF
+# PHL Code Club - CTF
 
 This repo is the top-level repository for all PHL Code Club CTF code. A ton of stuff is TBD, but here's some notes in case anyone comes on here:
 
