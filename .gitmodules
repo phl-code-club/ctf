@@ -4,3 +4,6 @@
 [submodule "ctf-orchestrator"]
 	path = ctf-orchestrator
 	url = git@github.com:phl-code-club/ctf-orchestrator.git
+[submodule "ctf-challenge-site"]
+	path = ctf-challenge-site
+	url = git@github.com:phl-code-club/ctf-challenge-site.git
