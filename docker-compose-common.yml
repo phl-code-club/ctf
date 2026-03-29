@@ -1,0 +1,6 @@
+networks:
+    caddy-net:
+    orchestrator-net:
+        internal: true
+    ctfd-net:
+        internal: true
